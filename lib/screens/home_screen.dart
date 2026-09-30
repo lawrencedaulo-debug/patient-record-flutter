@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../screens/dashboard_screen.dart';
 import '../screens/patient_list_screen.dart';
+import '../screens/login_screen.dart';
 import '../state/app_state.dart';
 
 class HomeScreen extends StatefulWidget {

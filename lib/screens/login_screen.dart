@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 
 import '../models/patient_model.dart';
 import '../state/app_state.dart';
+import 'home_screen.dart';
+import 'register_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

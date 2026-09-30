@@ -3,7 +3,6 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 
 import '../models/patient_model.dart';
-import '../screens/register_screen.dart';
 import '../state/app_state.dart';
 
 class PatientFormScreen extends StatefulWidget {
